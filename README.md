@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes website project used for The Odin Projec
+Recipes website project used for The Odin Project
